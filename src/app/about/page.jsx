@@ -55,7 +55,7 @@ export default function About() {
         <div className="relative bg-blue-600 py-16 px-4 sm:px-6 lg:px-8 w-full text-white">
           <div className="absolute inset-0">
             <Image
-              src="/background-about.jpg"
+              src="/5.jpeg"
               alt="Background"
               layout="fill"
               objectFit="cover"
